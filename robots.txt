@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://34010493.github.com/dotfiles/sitemap.xml 

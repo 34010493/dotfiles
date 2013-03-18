@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Harry's Tech Blog]]></title>
+  <link href="http://34010493.github.com/dotfiles/atom.xml" rel="self"/>
+  <link href="http://34010493.github.com/dotfiles/"/>
+  <updated>2013-03-18T16:43:28+08:00</updated>
+  <id>http://34010493.github.com/dotfiles/</id>
+  <author>
+    <name><![CDATA[Harry Wang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
